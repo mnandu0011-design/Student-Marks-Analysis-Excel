@@ -71,6 +71,9 @@ Interested in Cyber Security & Full Stack Development
 - GitHub: https://github.com/mnandu0011-design
 
 - LinkedIn: https://www.linkedin.com/in/maramreddy-shiva-nandheswara-reddy-205a773a8
+## 📄 License
+
+This project is for educational purposes.
 
 ---
 
