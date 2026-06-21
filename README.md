@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is developed using Microsoft Excel to manage and analyze student academic performance. The workbook automatically calculates total marks, grades, pass/fail status, and provides a visual representation of student performance using charts.
+Student Academic Performance Dashboard built using Microsoft Excel with automated marks calculation, grade assignment, pass/fail analysis, and data visualization.
 
 ## ✨ Features
 
