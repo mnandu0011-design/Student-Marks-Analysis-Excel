@@ -31,7 +31,7 @@ Student Academic Performance Dashboard built using Microsoft Excel with automate
 - Grade Distribution
 - Bar Chart for Student Performance
 
-## 🛠️ Tools Used
+## 🛠 Skills Demonstrated
 
 - Microsoft Excel
 - Excel Formulas
