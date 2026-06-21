@@ -3,7 +3,9 @@
 ## 📌 Project Overview
 
 Student Academic Performance Dashboard built using Microsoft Excel with automated marks calculation, grade assignment, pass/fail analysis, and data visualization.
+## 📸 Project Preview
 
+[View Dashboard Screenshot](https://drive.google.com/file/d/1zphyuCTkcogNkdXkToooW8uvtPxogp7L/view)
 ## ✨ Features
 
 - Student Marks Management
