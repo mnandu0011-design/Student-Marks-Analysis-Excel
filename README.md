@@ -1,4 +1,4 @@
-## 📊 Student Academic Performance Dashboard (Excel Project)
+# 📊 Student Academic Performance Dashboard (Excel Project)
 
 ## 📌 Project Overview
 
