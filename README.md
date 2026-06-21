@@ -17,9 +17,10 @@ This project is developed using Microsoft Excel to manage and analyze student ac
 
 ## 📋 Table Structure
 
-S.No| Student Name| Student ID| English| Maths| Physics| Total Marks| Grade| Status
-1| Student 1| ST001| 85| 90| 78| 253| A| Pass
-2| Student 2| ST002| 35| 40| 28| 103| Fail| Fail
+| S.No | Student Name | Student ID | English | Maths | Physics | Total Marks | Grade | Status |
+|------|-------------|------------|---------|-------|---------|------------|-------|--------|
+| 1 | Student 1 | ST001 | 85 | 90 | 78 | 253 | A | Pass |
+| 2 | Student 2 | ST002 | 35 | 40 | 28 | 103 | Fail | Fail |
 
 ## 📈 Dashboard Components
 
