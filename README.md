@@ -1,10 +1,10 @@
 ## 📊 Student Academic Performance Dashboard (Excel Project)
 
-##📌 Project Overview
+## 📌 Project Overview
 
-This project is developed using Microsoft Excel to manage and analyze student academic performance. The workbook automatically calculates total marks, grades, pass/fail status, and provides a visual representation of student performance using charts.
+# This project is developed using Microsoft Excel to manage and analyze student academic performance. The workbook automatically calculates total marks, grades, pass/fail status, and provides a visual representation of student performance using charts.
 
-##✨ Features
+## ✨ Features
 
 - Student Marks Management
 - Automatic Total Marks Calculation
@@ -15,13 +15,13 @@ This project is developed using Microsoft Excel to manage and analyze student ac
 - Bar Chart Visualization
 - Academic Performance Dashboard
 
-##📋 Table Structure
+## 📋 Table Structure
 
 S.No| Student Name| Student ID| English| Maths| Physics| Total Marks| Grade| Status
 1| Student 1| ST001| 85| 90| 78| 253| A| Pass
 2| Student 2| ST002| 35| 40| 28| 103| Fail| Fail
 
-##📈 Dashboard Components
+## 📈 Dashboard Components
 
 - Total Students
 - Total Passed Students
@@ -30,7 +30,7 @@ S.No| Student Name| Student ID| English| Maths| Physics| Total Marks| Grade| Sta
 - Grade Distribution
 - Bar Chart for Student Performance
 
-##🛠️ Tools Used
+## 🛠️ Tools Used
 
 - Microsoft Excel
 - Excel Formulas
@@ -38,7 +38,7 @@ S.No| Student Name| Student ID| English| Maths| Physics| Total Marks| Grade| Sta
 - Charts & Graphs
 - Data Analysis Features
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 - Excel Formula Usage
 - Data Management
@@ -46,12 +46,12 @@ S.No| Student Name| Student ID| English| Maths| Physics| Total Marks| Grade| Sta
 - Dashboard Creation
 - Data Visualization
 
-##📂 Project File
+## 📂 Project File
 
 
 [Download Excel File](Student_Academic_Performance.xlsx)
 
-##🚀 How to Use
+## 🚀 How to Use
 
 1. Download the Excel file.
 2. Open it in Microsoft Excel.
@@ -59,14 +59,14 @@ S.No| Student Name| Student ID| English| Maths| Physics| Total Marks| Grade| Sta
 4. View automatic calculations and charts.
 5. Analyze student performance using the dashboard.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
-#M. Nandu
+# M. Nandu
 B.Tech 
 CSE Student
 Interested in Cyber Security & Full Stack Development
 
-##🔗 Connect With Me
+## 🔗 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/maramreddy-shiva-nandheswara-reddy-205a773a8
 
