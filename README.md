@@ -63,7 +63,7 @@ Student Academic Performance Dashboard built using Microsoft Excel with automate
 ## 👨‍💻 Author
 
 # M. Nandu
-B.Tech 
+ 
 B.Tech CSE Student (2nd Year)
 Interested in Cyber Security & Full Stack Development
 
