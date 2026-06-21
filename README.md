@@ -74,9 +74,11 @@ Interested in Cyber Security & Full Stack Development
 
 - LinkedIn: https://www.linkedin.com/in/maramreddy-shiva-nandheswara-reddy-205a773a8
 ___
+
+
 ## 📄 License
 
-This project is for educational purposes.
+This project is intended for educational and academic purposes only. It is shared to demonstrate Microsoft Excel skills and project work.
 
 ---
 
